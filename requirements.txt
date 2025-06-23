@@ -6,3 +6,5 @@ ultralytics
 numpy
 pyttsx3
 gunicorn
+espeak
+espeak-ng
